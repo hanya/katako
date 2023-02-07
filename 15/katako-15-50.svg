@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 463 307" width="463" height="307">
+<rect id="background" x="0" y="0" width="463" height="307" fill="#ffffff"/>
+<g id="grid">
+<path id="grid-vert-lines" stroke="#000000" opacity="0.1255" stroke-width="1" d="M 0.5,0.5 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307 m 14,-307 V 307"/>
+<path id="grid-hori-lines" stroke="#000000" opacity="0.1255" stroke-width="1" d="M 0.5,0.5 H 463 m -463,18 H 463 m -463,18 H 463 m -463,18 H 463 m -463,18 H 463 m -463,18 H 463 m -463,18 H 463 m -463,18 H 463 m -463,18 H 463 m -463,18 H 463 m -463,18 H 463 m -463,18 H 463 m -463,18 H 463 m -463,18 H 463 m -463,18 H 463 m -463,18 H 463 m -463,18 H 463 m -463,18 H 463"/>
+<path id="grid-frame" stroke="#000000" opacity="0.3137" stroke-width="1" d="M 0.5,0.5 H 462.5 V 306.5 H 0.5 V 0.5 z" fill="none"/>
+<path id="grid-vert-major-lines" stroke="#000000" opacity="0.3137" stroke-width="1" d="M 14.5,0.5 V 307 m 70,-307 V 307 m 70,-307 V 307 m 70,-307 V 307 m 70,-307 V 307 m 70,-307 V 307 m 70,-307 V 307"/>
+<path id="grid-hori-major-lines" stroke="#000000" opacity="0.3137" stroke-width="1" d="M 0.5,18.5 H 463 m -463,90 H 463 m -463,90 H 463 m -463,90 H 463"/>
+</g>
+<g id="layers">
+<g id="Layer 1">
+<use xlink:href="#4-000000" href="#4-000000" x="140" y="144"/>
+<use xlink:href="#4-000000" href="#4-000000" x="252" y="144"/>
+<g transform="translate(14 18)">
+<use xlink:href="#2-000000" href="#2-000000" x="196" y="0"/>
+<use xlink:href="#2-000000" href="#2-000000" x="196" y="252"/>
+<use xlink:href="#6-000000" href="#6-000000" x="168" y="18"/>
+<use xlink:href="#6-000000" href="#6-000000" x="168" y="234"/>
+<use xlink:href="#4-000000" href="#4-000000" x="140" y="36"/>
+<use xlink:href="#4-000000" href="#4-000000" x="224" y="36"/>
+<use xlink:href="#4-000000" href="#4-000000" x="112" y="54"/>
+<use xlink:href="#4-000000" href="#4-000000" x="252" y="54"/>
+<use xlink:href="#4-000000" href="#4-000000" x="84" y="72"/>
+<use xlink:href="#4-000000" href="#4-000000" x="280" y="72"/>
+<use xlink:href="#4-000000" href="#4-000000" x="56" y="90"/>
+<use xlink:href="#4-000000" href="#4-000000" x="308" y="90"/>
+<use xlink:href="#4-000000" href="#4-000000" x="28" y="108"/>
+<use xlink:href="#4-000000" href="#4-000000" x="336" y="108"/>
+<use xlink:href="#4-000000" href="#4-000000" x="0" y="126"/>
+<use xlink:href="#4-000000" href="#4-000000" x="364" y="126"/>
+<use xlink:href="#4-000000" href="#4-000000" x="28" y="144"/>
+<use xlink:href="#4-000000" href="#4-000000" x="336" y="144"/>
+<use xlink:href="#4-000000" href="#4-000000" x="56" y="162"/>
+<use xlink:href="#4-000000" href="#4-000000" x="308" y="162"/>
+<use xlink:href="#4-000000" href="#4-000000" x="84" y="180"/>
+<use xlink:href="#4-000000" href="#4-000000" x="280" y="180"/>
+<use xlink:href="#4-000000" href="#4-000000" x="112" y="198"/>
+<use xlink:href="#4-000000" href="#4-000000" x="252" y="198"/>
+<use xlink:href="#4-000000" href="#4-000000" x="140" y="216"/>
+<use xlink:href="#4-000000" href="#4-000000" x="224" y="216"/>
+</g>
+<use xlink:href="#2-000000" href="#2-000000" x="168" y="126"/>
+<use xlink:href="#2-000000" href="#2-000000" x="168" y="162"/>
+<use xlink:href="#2-000000" href="#2-000000" x="182" y="180"/>
+<use xlink:href="#2-000000" href="#2-000000" x="210" y="198"/>
+<use xlink:href="#2-000000" href="#2-000000" x="238" y="180"/>
+<use xlink:href="#2-000000" href="#2-000000" x="252" y="162"/>
+<use xlink:href="#2-000000" href="#2-000000" x="252" y="126"/>
+<use xlink:href="#2-000000" href="#2-000000" x="182" y="108"/>
+<use xlink:href="#2-000000" href="#2-000000" x="238" y="108"/>
+<use xlink:href="#2-000000" href="#2-000000" x="210" y="90"/>
+</g>
+</g>
+<defs>
+<line id="4-000000" x1="8.4" y1="9.5" x2="62.6" y2="9.5" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+<line id="2-000000" x1="8.4" y1="9.5" x2="34.6" y2="9.5" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+<line id="6-000000" x1="8.4" y1="9.5" x2="90.6" y2="9.5" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+</defs>
+<foreignObject id="kogin-option" visibility="hidden">
+{
+ "output-screen": {
+  "noData": false,
+  "useXLink": true,
+  "gridNumber": false,
+  "monochrome": false,
+  "setBackground": true,
+  "backgroundColor": "#ffffff",
+  "strokeWidth": 16,
+  "leftMargin": 1,
+  "rightMargin": 1,
+  "topMargin": 1,
+  "bottomMargin": 1,
+  "showTitle": false,
+  "showCopyright": false,
+  "lineGrainLineWidth": 8,
+  "overGrainLineWidth": 8,
+  "overWarpLineWidth": 8,
+  "overGrainOffsetRatio": 0.1,
+  "overWarpOffsetRatio": 0.1
+ },
+ "output-print": {
+  "noData": false,
+  "useXLink": true,
+  "gridNumber": false,
+  "monochrome": false,
+  "setBackground": false,
+  "backgroundColor": "#ffffff",
+  "strokeWidth": 2,
+  "leftMargin": 1,
+  "rightMargin": 1,
+  "topMargin": 1,
+  "bottomMargin": 1,
+  "showTitle": true,
+  "showCopyright": true,
+  "lineGrainLineWidth": 2,
+  "overGrainLineWidth": 2,
+  "overWarpLineWidth": 2,
+  "overGrainOffsetRatio": 0.1,
+  "overWarpOffsetRatio": 0.1
+ },
+ "grid-screen": {
+  "showGrid": true,
+  "overGrid": false,
+  "horiCount": 100,
+  "vertCount": 50,
+  "gridWidth": 14,
+  "gridHeight": 18,
+  "gridLineWidth": 1,
+  "gridLineColor": "#00000020",
+  "gridMajorLineColor": "#00000050",
+  "gridMajorLineFrequency": 5,
+  "gridMajorVertOffset": 1,
+  "gridMajorHoriOffset": 1,
+  "showGridMajorLine": true,
+  "showGridFrame": true,
+  "numberingColor": "#00000050"
+ },
+ "grid-print": {
+  "showGrid": true,
+  "overGrid": false,
+  "horiCount": 100,
+  "vertCount": 50,
+  "gridWidth": 4,
+  "gridHeight": 5,
+  "gridLineWidth": 0.15,
+  "gridLineColor": "#999999",
+  "gridMajorLineColor": "#000000",
+  "gridMajorLineFrequency": 5,
+  "gridMajorVertOffset": 1,
+  "gridMajorHoriOffset": 1,
+  "showGridMajorLine": true,
+  "showGridFrame": true,
+  "numberingColor": "#000000"
+ },
+ "bounds": {
+  "useOutputBounds": false,
+  "boundsLeft": 45,
+  "boundsRight": 93,
+  "boundsTop": 24,
+  "boundsBottom": 51
+ },
+ "pdf-export": {
+  "useOutputBounds": false,
+  "gridNumber": true,
+  "pageSize": "A4",
+  "landscape": false,
+  "leftMargin": 10,
+  "rightMargin": 10,
+  "topMargin": 17,
+  "bottomMargin": 12,
+  "multibyteFont": ""
+ },
+ "view": {
+  "viewMode": 3,
+  "crosshair": false,
+  "oneToOne": false,
+  "oneToTwo": false,
+  "stitchColor": "#000000",
+  "selectionColor": "#000000ff",
+  "cursorColor": "#ff0000ff",
+  "overlayStitchColor": "#999999",
+  "pivotColor": "#ff0000",
+  "openFromToolbar": "local",
+  "saveFromToolbar": "templates-save-as",
+  "askWhenClosing": false,
+  "zoomValue": 1,
+  "autoScrollOnTemplates": true
+ }
+}</foreignObject>
+<foreignObject id="kogin-data" visibility="hidden">
+{"application":"kogin","data":[{"layer":true,"name":"Layer 1","visible":true,"locked":false,"x":0,"y":0,"children":[{"x":1,"y":1,"children":[{"ref":"2-000000","coords":[[14,0],[14,14]]},{"ref":"6-000000","coords":[[12,1],[12,13]]},{"ref":"4-000000","coords":[[10,2],[16,2],[8,3],[18,3],[6,4],[20,4],[4,5],[22,5],[2,6],[24,6],[0,7],[26,7],[2,8],[24,8],[4,9],[22,9],[6,10],[20,10],[8,11],[18,11],[10,12],[16,12]]}]},{"ref":"4-000000","coords":[[10,8],[18,8]]},{"ref":"2-000000","coords":[[12,7],[12,9],[13,10],[15,11],[17,10],[18,9],[18,7],[13,6],[17,6],[15,5]]}]}],"defs":{"single":[{"length":"2","colors":["#000000"]},{"length":"4","colors":["#000000"]},{"length":"6","colors":["#000000"]}]},"pivots":[[1,8],[15,15],[31,8],[15,1]],"bbox":[1,1,30,15]}</foreignObject>
+<foreignObject id="kogin-metadata" visibility="hidden">
+{
+ "title": "型コ 15",
+ "title-en": "katako 15",
+ "creationDate": "2023-00-02 19:10",
+ "author": "",
+ "license": "",
+ "keyword": "",
+ "description": "",
+ "version": "",
+ "copyright": "",
+ "type": ""
+}</foreignObject>
+</svg>

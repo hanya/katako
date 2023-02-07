@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 519 343" width="519" height="343">
+<rect id="background" x="0" y="0" width="519" height="343" style="fill: #ffffff;"/>
+<g id="grid">
+<path id="grid-vert-lines" stroke="#000000" opacity="0.1255" stroke-width="1" d="M 0.5,0.5 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343 m 14,-343 V 343"/>
+<path id="grid-hori-lines" stroke="#000000" opacity="0.1255" stroke-width="1" d="M 0.5,0.5 H 519 m -519,18 H 519 m -519,18 H 519 m -519,18 H 519 m -519,18 H 519 m -519,18 H 519 m -519,18 H 519 m -519,18 H 519 m -519,18 H 519 m -519,18 H 519 m -519,18 H 519 m -519,18 H 519 m -519,18 H 519 m -519,18 H 519 m -519,18 H 519 m -519,18 H 519 m -519,18 H 519 m -519,18 H 519 m -519,18 H 519 m -519,18 H 519"/>
+<path id="grid-frame" stroke="#000000" opacity="0.3137" stroke-width="1" d="M 0.5,0.5 H 518.5 V 342.5 H 0.5 V 0.5 z" fill="none"/>
+<path id="grid-vert-major-lines" stroke="#000000" opacity="0.3137" stroke-width="1" d="M 14.5,0.5 V 343 m 70,-343 V 343 m 70,-343 V 343 m 70,-343 V 343 m 70,-343 V 343 m 70,-343 V 343 m 70,-343 V 343 m 70,-343 V 343"/>
+<path id="grid-hori-major-lines" stroke="#000000" opacity="0.3137" stroke-width="1" d="M 0.5,18.5 H 519 m -519,90 H 519 m -519,90 H 519 m -519,90 H 519"/>
+</g>
+<g id="layers">
+<g id="Layer 1" transform="translate(0 0)">
+<g transform="translate(252 198)">
+<use xlink:href="#2-000000" href="#2-000000" x="-14" y="-54"/>
+<use xlink:href="#2-000000" href="#2-000000" x="-14" y="-18"/>
+<use xlink:href="#6-000000" href="#6-000000" x="-42" y="-36"/>
+</g>
+<g transform="translate(168 144)">
+<use xlink:href="#2-000000" href="#2-000000" x="70" y="-54"/>
+<use xlink:href="#2-000000" href="#2-000000" x="70" y="90"/>
+<use xlink:href="#6-000000" href="#6-000000" x="42" y="-36"/>
+<use xlink:href="#6-000000" href="#6-000000" x="42" y="72"/>
+<use xlink:href="#4-000000" href="#4-000000" x="14" y="-18"/>
+<use xlink:href="#4-000000" href="#4-000000" x="98" y="-18"/>
+<use xlink:href="#4-000000" href="#4-000000" x="-14" y="0"/>
+<use xlink:href="#4-000000" href="#4-000000" x="126" y="0"/>
+<use xlink:href="#4-000000" href="#4-000000" x="-42" y="18"/>
+<use xlink:href="#4-000000" href="#4-000000" x="154" y="18"/>
+<use xlink:href="#4-000000" href="#4-000000" x="-14" y="36"/>
+<use xlink:href="#4-000000" href="#4-000000" x="126" y="36"/>
+<use xlink:href="#4-000000" href="#4-000000" x="14" y="54"/>
+<use xlink:href="#4-000000" href="#4-000000" x="98" y="54"/>
+</g>
+<g transform="translate(56 72)">
+<use xlink:href="#2-000000" href="#2-000000" x="182" y="-54"/>
+<use xlink:href="#2-000000" href="#2-000000" x="182" y="234"/>
+<use xlink:href="#6-000000" href="#6-000000" x="154" y="-36"/>
+<use xlink:href="#6-000000" href="#6-000000" x="154" y="216"/>
+<use xlink:href="#4-000000" href="#4-000000" x="126" y="-18"/>
+<use xlink:href="#4-000000" href="#4-000000" x="210" y="-18"/>
+<use xlink:href="#4-000000" href="#4-000000" x="98" y="0"/>
+<use xlink:href="#4-000000" href="#4-000000" x="238" y="0"/>
+<use xlink:href="#4-000000" href="#4-000000" x="70" y="18"/>
+<use xlink:href="#4-000000" href="#4-000000" x="266" y="18"/>
+<use xlink:href="#4-000000" href="#4-000000" x="42" y="36"/>
+<use xlink:href="#4-000000" href="#4-000000" x="294" y="36"/>
+<use xlink:href="#4-000000" href="#4-000000" x="14" y="54"/>
+<use xlink:href="#4-000000" href="#4-000000" x="322" y="54"/>
+<use xlink:href="#4-000000" href="#4-000000" x="-14" y="72"/>
+<use xlink:href="#4-000000" href="#4-000000" x="350" y="72"/>
+<use xlink:href="#4-000000" href="#4-000000" x="-42" y="90"/>
+<use xlink:href="#4-000000" href="#4-000000" x="378" y="90"/>
+<use xlink:href="#4-000000" href="#4-000000" x="-14" y="108"/>
+<use xlink:href="#4-000000" href="#4-000000" x="350" y="108"/>
+<use xlink:href="#4-000000" href="#4-000000" x="14" y="126"/>
+<use xlink:href="#4-000000" href="#4-000000" x="322" y="126"/>
+<use xlink:href="#4-000000" href="#4-000000" x="42" y="144"/>
+<use xlink:href="#4-000000" href="#4-000000" x="294" y="144"/>
+<use xlink:href="#4-000000" href="#4-000000" x="70" y="162"/>
+<use xlink:href="#4-000000" href="#4-000000" x="266" y="162"/>
+<use xlink:href="#4-000000" href="#4-000000" x="98" y="180"/>
+<use xlink:href="#4-000000" href="#4-000000" x="238" y="180"/>
+<use xlink:href="#4-000000" href="#4-000000" x="126" y="198"/>
+<use xlink:href="#4-000000" href="#4-000000" x="210" y="198"/>
+</g>
+</g>
+</g>
+<defs>
+<line id="2-000000" x1="8.4" y1="9.5" x2="34.6" y2="9.5" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+<line id="6-000000" x1="8.4" y1="9.5" x2="90.6" y2="9.5" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+<line id="4-000000" x1="8.4" y1="9.5" x2="62.6" y2="9.5" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+</defs>
+<foreignObject id="kogin-option" visibility="hidden">
+{
+ "output-screen": {
+  "noData": false,
+  "useXLink": true,
+  "useStyle": false,
+  "gridNumber": false,
+  "monochrome": false,
+  "setBackground": true,
+  "backgroundColor": "#ffffff",
+  "strokeWidth": 16,
+  "leftMargin": 1,
+  "rightMargin": 1,
+  "topMargin": 1,
+  "bottomMargin": 1,
+  "showTitle": false,
+  "showCopyright": false,
+  "lineGrainLineWidth": 8,
+  "overGrainLineWidth": 8,
+  "overWarpLineWidth": 8,
+  "overGrainOffsetRatio": 0.1,
+  "overWarpOffsetRatio": 0.1
+ },
+ "output-print": {
+  "noData": false,
+  "useXLink": true,
+  "useStyle": false,
+  "gridNumber": false,
+  "monochrome": false,
+  "setBackground": false,
+  "backgroundColor": "#ffffff",
+  "strokeWidth": 2,
+  "leftMargin": 1,
+  "rightMargin": 1,
+  "topMargin": 1,
+  "bottomMargin": 1,
+  "showTitle": true,
+  "showCopyright": true,
+  "lineGrainLineWidth": 2,
+  "overGrainLineWidth": 2,
+  "overWarpLineWidth": 2,
+  "overGrainOffsetRatio": 0.1,
+  "overWarpOffsetRatio": 0.1
+ },
+ "grid-screen": {
+  "showGrid": true,
+  "overGrid": false,
+  "horiCount": 100,
+  "vertCount": 50,
+  "gridWidth": 14,
+  "gridHeight": 18,
+  "gridLineWidth": 1,
+  "gridLineColor": "#00000020",
+  "gridMajorLineColor": "#00000050",
+  "gridMajorLineFrequency": 5,
+  "gridMajorVertOffset": 1,
+  "gridMajorHoriOffset": 1,
+  "showGridMajorLine": true,
+  "showGridFrame": true
+ },
+ "grid-print": {
+  "showGrid": true,
+  "overGrid": false,
+  "horiCount": 100,
+  "vertCount": 50,
+  "gridWidth": 4,
+  "gridHeight": 5,
+  "gridLineWidth": 0.15,
+  "gridLineColor": "#999999",
+  "gridMajorLineColor": "#000000",
+  "gridMajorLineFrequency": 5,
+  "gridMajorVertOffset": 1,
+  "gridMajorHoriOffset": 1,
+  "showGridMajorLine": true,
+  "showGridFrame": true
+ },
+ "bounds": {
+  "useOutputBounds": false,
+  "boundsLeft": 45,
+  "boundsRight": 93,
+  "boundsTop": 24,
+  "boundsBottom": 51
+ },
+ "pdf-export": {
+  "useOutputBounds": false,
+  "gridNumber": true,
+  "pageSize": "A4",
+  "landscape": false,
+  "leftMargin": 10,
+  "rightMargin": 10,
+  "topMargin": 17,
+  "bottomMargin": 12
+ },
+ "view": {
+  "viewMode": 3,
+  "crosshair": false,
+  "oneToOne": false,
+  "oneToTwo": false,
+  "stitchColor": "#000000",
+  "selectionColor": "#000000ff",
+  "cursorColor": "#ff0000ff",
+  "overlayStitchColor": "#999999",
+  "pivotColor": "#ff0000",
+  "openFromToolbar": "storage",
+  "saveFromToolbar": "templates",
+  "askWhenClosing": false,
+  "zoomValue": 1
+ }
+}</foreignObject>
+<foreignObject id="kogin-data" visibility="hidden">
+{"application":"kogin","data":[{"layer":true,"name":"Layer 1","visible":true,"locked":false,"x":0,"y":0,"children":[{"x":18,"y":11,"children":[{"ref":"2-000000","coords":[[2,0],[2,2]]},{"ref":"6-000000","coords":[[0,1]]}]},{"x":12,"y":8,"children":[{"ref":"2-000000","coords":[[8,0],[8,8]]},{"ref":"6-000000","coords":[[6,1],[6,7]]},{"ref":"4-000000","coords":[[4,2],[10,2],[2,3],[12,3],[0,4],[14,4],[2,5],[12,5],[4,6],[10,6]]}]},{"x":4,"y":4,"children":[{"ref":"2-000000","coords":[[16,0],[16,16]]},{"ref":"6-000000","coords":[[14,1],[14,15]]},{"ref":"4-000000","coords":[[12,2],[18,2],[10,3],[20,3],[8,4],[22,4],[6,5],[24,5],[4,6],[26,6],[2,7],[28,7],[0,8],[30,8],[2,9],[28,9],[4,10],[26,10],[6,11],[24,11],[8,12],[22,12],[10,13],[20,13],[12,14],[18,14]]}]}]}],"defs":{"single":[{"length":"2","colors":["#000000"]},{"length":"4","colors":["#000000"]},{"length":"6","colors":["#000000"]}]},"pivots":[[4,12],[20,20],[38,12],[20,4]],"bbox":[4,4,34,17]}</foreignObject>
+<foreignObject id="kogin-metadata" visibility="hidden">
+{
+ "title": "型コ 17",
+ "title-en": "katako 17",
+ "creationDate": "2022-10-26 09:54",
+ "author": "",
+ "license": "",
+ "keyword": "",
+ "description": "",
+ "version": "",
+ "copyright": "",
+ "type": ""
+}</foreignObject>
+</svg>
